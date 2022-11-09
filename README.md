@@ -1,6 +1,7 @@
 **Augmentoria - Moralis Demo**
 **COMMANDS:**
-Navigate to **backend** folder and run the following commands
+
+Navigate to **backend** folder and run the following commands 
 
     npm run build
     npm run start
